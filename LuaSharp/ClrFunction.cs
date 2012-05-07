@@ -25,7 +25,6 @@
 // THE SOFTWARE.
 
 using System;
-using LuaWrap;
 using System.Threading;
 
 namespace LuaSharp

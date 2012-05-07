@@ -31,7 +31,6 @@
 using System;
 using System.Collections.Generic;
 
-using LuaWrap;
 using System.IO;
 using System.Threading;
 using System.Linq.Expressions;

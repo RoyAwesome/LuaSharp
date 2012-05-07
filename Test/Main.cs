@@ -93,6 +93,7 @@ namespace Test
 			{
 				Console.WriteLine( "Fail: " + e.Message );
 			}
+            Console.ReadKey();
 		}
 		
 		private static Lua Lookup( object key )

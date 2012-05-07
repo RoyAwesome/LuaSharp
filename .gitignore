@@ -7,3 +7,15 @@ bin/
 *.pidb
 *.swp
 test-results/
+
+_ReSharper.LuaSharp/
+_UpgradeReport_Files/
+LuaSharp.sln.DotSettings.user
+LuaSharp.suo
+UpgradeLog.XML
+Test/obj/Debug/
+LuaWrap/obj/
+LuaSharp/obj/
+LuaSharp/LuaSharp.csproj.DotSettings.user
+*.DotSettings.user
+LuaSharp.Tests/*

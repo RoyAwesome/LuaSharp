@@ -27,7 +27,6 @@
 using System;
 using System.Collections.Generic;
 
-using LuaWrap;
 using System.Globalization;
 
 namespace LuaSharp

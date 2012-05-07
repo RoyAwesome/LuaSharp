@@ -53,7 +53,6 @@
 using System;
 using System.Collections.Generic;
 
-using LuaWrap;
 using System.Collections;
 using System.Threading;
 
